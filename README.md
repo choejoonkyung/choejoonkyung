@@ -2,7 +2,11 @@
 <p align="center">👋 반갑습니다, 프론트엔드 개발자 최준경입니다. </p>
 <br>
 
+<p align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choejoonkyung)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
 
 <br>
 
