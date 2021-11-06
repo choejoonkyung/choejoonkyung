@@ -24,6 +24,6 @@
 
 <h3 align="center"> About me 😀  </h3>
 <p align="center">
-  <a href="https://varletc0nst.tistory.com"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Blogger&logoColor=white&link=https://varletc0nst.tistory.com"/></a>
-  <a href="mailto:choejunkyung@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=choejunkyung@gmail.com"/></a>
+  <a href="https://varletc0nst.tistory.com"><img src="https://img.shields.io/badge/Blog-ff5544?style=flat-square&logo=Blogger&logoColor=white&link=https://varletc0nst.tistory.com"/></a>
+  <a href="mailto:choejunkyung@gmail.com"><img src="https://img.shields.io/badge/Gmail-34A853?style=flat-square&logo=Gmail&logoColor=white&link=choejunkyung@gmail.com"/></a>
 </p>
