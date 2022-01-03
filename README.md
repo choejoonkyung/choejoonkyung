@@ -14,8 +14,9 @@
     <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Testing Library-E33332?style=flat-square&logo=Testing Library&logoColor=white"/><br/>
+<!--     <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Testing Library-E33332?style=flat-square&logo=Testing Library&logoColor=white"/> -->
+    <br/>
     <img src="https://img.shields.io/badge/Webstorm-000000?style=flat-square&logo=Webstorm&logoColor=white"/>
     <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
