@@ -17,13 +17,11 @@
 <!--     <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
     <img src="https://img.shields.io/badge/Testing Library-E33332?style=flat-square&logo=Testing Library&logoColor=white"/> -->
     <br/>
-    <img src="https://img.shields.io/badge/Webstorm-000000?style=flat-square&logo=Webstorm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-
 </p>
 
 <h3 align="center"> About me 😀  </h3>
 <p align="center">
   <a href="https://varletc0nst.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-ff5544?style=flat-square&logo=Blogger&logoColor=white&link=https://varletc0nst.tistory.com"/></a>
   <a href="mailto:choejunkyung@gmail.com"><img src="https://img.shields.io/badge/Gmail-4285F4?style=flat-square&logo=Gmail&logoColor=white&link=choejunkyung@gmail.com"/></a>
+ <a href="https://choejoonkyung.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/이력서-8CA1AF?style=flat-square&logo=Read the Docs&logoColor=white&link=https://choejoonkyung.github.io/portfolio/"/></a>
 </p>
