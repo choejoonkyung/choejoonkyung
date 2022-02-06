@@ -23,5 +23,5 @@
 <p align="center">
   <a href="https://varletc0nst.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-ff5544?style=flat-square&logo=Blogger&logoColor=white&link=https://varletc0nst.tistory.com"/></a>
   <a href="mailto:choejunkyung@gmail.com"><img src="https://img.shields.io/badge/Gmail-4285F4?style=flat-square&logo=Gmail&logoColor=white&link=choejunkyung@gmail.com"/></a>
- <a href="https://choejoonkyung.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/이력서-8CA1AF?style=flat-square&logo=Read the Docs&logoColor=white&link=https://choejoonkyung.github.io/portfolio/"/></a>
+ <a href="https://choejoonkyung.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/이력서-8CA1AF?style=flat-square&logo=ReadtheDocs&logoColor=white&link=https://choejoonkyung.github.io/portfolio/"/></a>
 </p>
